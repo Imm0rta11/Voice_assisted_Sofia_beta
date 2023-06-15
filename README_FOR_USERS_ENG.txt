@@ -1,4 +1,4 @@
-Before use, you need to download the 137 MB model
+Before use, you need to download the 137 MB model and move file to directory executable file main.py.
 from this link: https://alphacephei.com/vosk/models/vosk-model-small-uk-v3-small.zip
 
 Sofia supports phrases:
